@@ -5,7 +5,7 @@ The homepage is an entry point that welcomes users with a set of movies currentl
 
 ![homepage](https://user-images.githubusercontent.com/55934281/104644553-e487c000-567b-11eb-9a05-ac53d7ff592f.jpg)
 
-From the home page, other pages would be linked to guide users to what they are looking for. 
+From the home page, other pages are linked to guide users to what they are looking for. 
 
 ## Showtimes
 
