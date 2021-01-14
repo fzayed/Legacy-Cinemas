@@ -26,3 +26,6 @@ From the home page, other pages are linked to guide users to what they are looki
 ## Sign up
 
 ![signup](https://user-images.githubusercontent.com/55934281/104645984-d5a20d00-567d-11eb-8d5f-a7a73f907103.jpg)
+
+## Booking Confirmation
+
