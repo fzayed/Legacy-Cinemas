@@ -9,7 +9,7 @@ From the home page, other pages are linked to guide users to what they are looki
 
 ## Showtimes
 
-![showtimes](https://user-images.githubusercontent.com/55934281/104644927-6aa40680-567c-11eb-8b6a-bb14c1081b13.jpg)
+![showtimes](https://user-images.githubusercontent.com/55934281/104646385-59f49000-567e-11eb-9f0b-d12b8500487f.jpg)
 
 ## Book Tickets
 
