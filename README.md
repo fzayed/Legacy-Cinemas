@@ -35,4 +35,4 @@ The final step is to enter payment information.
 
 The user information is sent and stored in the database and confirmed below.
 
-![confirmation](https://user-images.githubusercontent.com/55934281/104650793-c3779d00-5684-11eb-876b-e10180ede2f0.png)
+![confirmation](https://user-images.githubusercontent.com/55934281/104651693-ff5f3200-5685-11eb-9f26-9f235b2862d6.png)
